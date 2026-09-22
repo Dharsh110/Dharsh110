@@ -1,10 +1,13 @@
 # 💫 About Me:
 👋 Hi, I'm Dharshini<br>
-🎓 I'm a Computer Science Engineering student at [PSG College of Technology](https://www.psgtech.edu/)<br>
-💻 Passionate about coding, data analytics, and building real-world projects<br>
-📊 Interested in Data Analytics, Business Intelligence, and Data Visualization<br>
-🌱 Currently developing my skills in SQL, Excel, Power BI, DAX, and Power Query<br>
-🚀 Always open to collaboration, learning new technologies, and exciting ideas
+🎓 Computer Science Engineering graduate from PSG College of Technology<br>
+💻 I enjoy coding, building projects, and exploring different areas of technology<br>
+🧠 I love solving problems and learning how things work behind the scenes<br>
+🛠️ I enjoy working on practical projects that help me learn and apply what I know<br>
+📚 Always learning something new and improving my technical and problem-solving skills<br>
+🤝 Open to collaboration, new ideas, and opportunities to grow<br>
+🚀 My goal is to keep learning, building, and creating meaningful solutions
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshiniv11)
